@@ -35,8 +35,7 @@ This research investigates the relationship between a nation’s **AI Readiness*
 ## 6. Author Information
 *   **Hanyi Wang**
 *   Sociology, The University of Hong Kong (HKU)
-*   For **POLI3148**: Data Science in politics and public administration
-*   Research focus: AI Governance, Algorithmic Accountability, and Social Data Analysis.
+*   Research focus: AI Governance, Algorithmic Accountability, and Social Data Analytics.
 
 ---
 
